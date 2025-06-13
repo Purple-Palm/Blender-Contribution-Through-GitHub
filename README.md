@@ -1,2 +1,4 @@
 # Blender-Contribution-Through-GitHub
-I contribution in blender where gihub acts like file sharing and python code that checks for updates before launching blender and uploading after blender is closed
+Python Script that allows user to do a version controll in Blender using Github:
+- Keeps projects up-to date with cloud
+- Submits changes back to github at the end
